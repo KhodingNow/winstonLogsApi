@@ -1,0 +1,3 @@
+{"level":"info","message":"Payment received","service":"PaymentService"}
+{"durationMs":1478,"level":"info","message":"Request to ${path} processed"}
+{"durationMs":1517,"level":"info","message":"Request to ${path} processed"}

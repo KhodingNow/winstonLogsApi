@@ -1,0 +1,28 @@
+{"level":"error","message":"An error log"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-02-10T10:24:12.581Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-02-10T10:24:19.483Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-02-10T10:29:07.809Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-02-10T10:29:30.637Z"}
+{"isAuthenticated":false,"level":"error","message":"An error log","method":"GET","timestamp":"2025-02-10T10:30:16.740Z"}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  message: 'An error log',
+  level: 'error',
+  timestamp: '2025-02-10T10:30:58.849Z'
+}
+{
+  method: 'GET',
+  isAuthenticated: false,
+  level: 'error',
+  message: 'An error log 504 Gateway timeout',
+  stack: 'Error: 504 Gateway timeout\n' +
+    '    at Object.<anonymous> (C:\\Users\\Lezwa\\Desktop\\DevOps\\Winston-DemoLogs\\apps.js:29:34)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1369:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1427:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1206:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:1022:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)\n' +
+    '    at node:internal/main/run_main_module:28:49',
+  timestamp: '2025-02-10T10:35:14.310Z'
+}
